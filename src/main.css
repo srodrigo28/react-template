@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+/**
+a:link {
+    color: #fff;
+  }
+
+  // 1. visited link
+  a:visited {
+    color: #fff;
+  }
+  
+  // 2. mouse over link
+  a:hover {
+    color: #fff;
+  }
+  
+  // 3. selected link
+  a:active {
+    color: #fff;
+  }
+  */
